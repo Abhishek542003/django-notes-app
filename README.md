@@ -6,7 +6,7 @@ This is a simple notes app built with React and Django.
 2. Node.js
 3. React
 4. Nginx
-5. Docker
+
 
 ## Installation
 1. Clone the repository
